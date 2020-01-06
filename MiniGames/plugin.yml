@@ -1,0 +1,13 @@
+name: MiniGames
+version: 0.1
+author: Mejx
+website: [www.mejx.tk]
+
+main: mejx.MiniGames
+
+commands:
+    lavarise:
+    
+
+permissions:
+
